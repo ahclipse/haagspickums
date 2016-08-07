@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel</title>
+        <title>Haags Pick-Ums</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
@@ -28,17 +28,20 @@
             .content {
                 text-align: center;
                 display: inline-block;
+                font-size: 32px;
             }
 
             .title {
                 font-size: 96px;
             }
+
         </style>
     </head>
     <body>
         <div class="container">
             <div class="content">
                 <div class="title">Haags Pick Ums</div>
+                A webapp for sports wagering amongst homies
             </div>
         </div>
     </body>
