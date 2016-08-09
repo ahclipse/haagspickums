@@ -40,8 +40,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Haags Pick Ums</div>
-                A webapp for sports wagering amongst homies
+                <div class="title"></div>
+                A webapp for sports competiton
             </div>
         </div>
     </body>
